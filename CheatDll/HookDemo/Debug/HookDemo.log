@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  EATHook.cpp
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(87): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 4 has type 'HMODULE'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(87): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 5 has type 'DWORD *'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(95): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'DWORD *'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(143): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 4 has type 'HMODULE'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(143): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 5 has type 'DWORD *'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(151): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'DWORD *'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(171): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'FARPROC'
+d:\temp\original (2)\cheatdll\hookdemo\eathook.cpp(171): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HMODULE'
+  HookDemo.cpp
+d:\temp\original (2)\cheatdll\hookdemo\hookdemo.cpp(60): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+d:\temp\original (2)\cheatdll\hookdemo\hookdemo.cpp(60): warning C4309: 'initializing': truncation of constant value
+d:\temp\original (2)\cheatdll\hookdemo\hookdemo.cpp(70): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+d:\temp\original (2)\cheatdll\hookdemo\hookdemo.cpp(70): warning C4309: 'initializing': truncation of constant value
+  IATHook.cpp
+d:\temp\original (2)\cheatdll\hookdemo\iathook.cpp(100): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'DWORD *'
+d:\temp\original (2)\cheatdll\hookdemo\iathook.cpp(163): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'DWORD *'
+  InlineHook.cpp
+  LDasm.cpp
+  VEHHook.cpp
+  Generating Code...
+     Creating library D:\temp\original (2)\CheatDll\Debug\CheatDll.lib and object D:\temp\original (2)\CheatDll\Debug\CheatDll.exp
+  HookDemo.vcxproj -> D:\temp\original (2)\CheatDll\Debug\CheatDll.dll

@@ -1,0 +1,4 @@
+﻿  DllInjector.cpp
+c:\users\kacha\documents\visual studio 2015\projects\dllinjector\dllinjector\dllinjector.cpp(122): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  DllInjector.vcxproj -> c:\users\kacha\documents\visual studio 2015\Projects\DllInjector\x64\Debug\DllInjector.exe
+  DllInjector.vcxproj -> c:\users\kacha\documents\visual studio 2015\Projects\DllInjector\x64\Debug\DllInjector.pdb (Full PDB)
